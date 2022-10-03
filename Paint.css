@@ -1,0 +1,36 @@
+body{
+    color: #222;
+    font-family: sans-serif;
+    text-align: center;
+    background: #ededed;
+}
+
+.canvas{
+    border: 1px solid #000;
+}
+
+.editor {
+    margin: 30px;
+    background: #fff;
+    width: fit-content;
+    margin: auto;
+    margin-top: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
