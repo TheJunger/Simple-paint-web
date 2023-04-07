@@ -6,31 +6,32 @@ body{
 }
 
 .canvas{
-    border: 1px solid #000;
+    border: 0.5vh solid #000;
+
 }
 
 .editor {
-    margin: 30px;
+    margin: 10vh;
     background: #fff;
     width: fit-content;
     margin: auto;
-    margin-top: 50px;
+    margin-top: 5vh;
 }
 
+.stylesCont{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
+.btnCont{
+    margin-top: 1vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.borrar{
+    padding: 0.5vh 2vh;
+}

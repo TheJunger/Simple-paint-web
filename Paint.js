@@ -35,7 +35,7 @@ const dibujar = (x1,y1,x2,y2)=>{
     ctx.stroke()
 }
 
-
-
-
-
+const botonBorrar = document.querySelector(".borrar");
+botonBorrar.addEventListener("click", () => {
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+  })
